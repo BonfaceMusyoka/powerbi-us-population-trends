@@ -115,7 +115,7 @@ The dashboard uses two tables:
 ## 📂 Files & Visual Assets
 
 - [`README.md`](./README.md) – Project documentation
-- [`US_Population_Bi_Project.pbix`](./US_Population_Bi_Project.pbix) – Power BI report file 
+- [`Us_population_Bi_project.pbix`](./Us_population_Bi_project.pbix) – Power BI report file
 - 📸 Report Screenshots:  
   - [Standard Page Overview](./page1_overview.png)  
   - [Map Visual](./map_focus.png)  
